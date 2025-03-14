@@ -1,4 +1,4 @@
-# Hi there, I'm Abdullah! 👋
+# Hi there, I'm Abdallah! 👋
 
 ## 🚀 About Me
 I'm a **Computer Science student** with a passion for **Machine Learning, MLOps, and Cloud Computing**. I have experience working with **AWS Cloud, Python, Data Science, and Deep Learning**.
